@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <stdexcept>
@@ -18,4 +17,3 @@ public:
 	size_t size() const; //return the size of the stack
 	double Stack_Avg() const; //calculate the average of the values in the stack
 };
-*/
