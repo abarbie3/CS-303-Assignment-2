@@ -1,4 +1,3 @@
-/*
 //Name: Alyssa Barbee
 //Date: 10-8-24
 //CS303
@@ -23,4 +22,3 @@ int main()
 
 	return 0;
 }
-*/
