@@ -1,4 +1,3 @@
-/*
 #include "Q2Functions.h"
 
 //check if the stack is empty
@@ -53,4 +52,3 @@ double stack<Item_Type>::Stack_Avg() const {
 }
 
 template class stack<int>;
-*/
